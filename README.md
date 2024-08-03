@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/IamVanshAg/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/IamVanshAg/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/IamVanshAg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/IamVanshAg/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/IamVanshAg/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/IamVanshAg/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/IamVanshAg/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/IamVanshAg/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/IamVanshAg/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/IamVanshAg/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
