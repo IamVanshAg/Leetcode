@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/IamVanshAg/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/IamVanshAg/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
+| [3199-distribute-candies-among-children-i](https://github.com/IamVanshAg/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3371-harshad-number](https://github.com/IamVanshAg/Leetcode/tree/master/3371-harshad-number) |
 ## Bit Manipulation
 |  |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/IamVanshAg/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/IamVanshAg/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/IamVanshAg/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
