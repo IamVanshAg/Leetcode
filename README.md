@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/IamVanshAg/Leetcode/tree/master/1115-valid-boomerang) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/IamVanshAg/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
