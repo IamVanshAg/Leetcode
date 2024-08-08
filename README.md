@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/IamVanshAg/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/IamVanshAg/Leetcode/tree/master/0412-fizz-buzz) |
 | [2727-number-of-senior-citizens](https://github.com/IamVanshAg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/IamVanshAg/Leetcode/tree/master/0292-nim-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/IamVanshAg/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
