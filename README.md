@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/IamVanshAg/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/IamVanshAg/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/IamVanshAg/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2571-find-the-pivot-integer](https://github.com/IamVanshAg/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/IamVanshAg/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2748-calculate-delayed-arrival-time](https://github.com/IamVanshAg/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IamVanshAg/Leetcode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/IamVanshAg/Leetcode/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
