@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/IamVanshAg/Leetcode/tree/master/1115-valid-boomerang) |
+| [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/IamVanshAg/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/IamVanshAg/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1677-matrix-diagonal-sum](https://github.com/IamVanshAg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/IamVanshAg/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/IamVanshAg/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/IamVanshAg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
