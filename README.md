@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/IamVanshAg/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/IamVanshAg/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamVanshAg/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
