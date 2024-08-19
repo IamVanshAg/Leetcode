@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/IamVanshAg/Leetcode/tree/master/0283-move-zeroes) |
 | [1115-valid-boomerang](https://github.com/IamVanshAg/Leetcode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/IamVanshAg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/IamVanshAg/Leetcode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/IamVanshAg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/IamVanshAg/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
