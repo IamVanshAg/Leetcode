@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/IamVanshAg/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/IamVanshAg/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/IamVanshAg/Leetcode/tree/master/0412-fizz-buzz) |
+| [0650-2-keys-keyboard](https://github.com/IamVanshAg/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/IamVanshAg/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/IamVanshAg/Leetcode/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/IamVanshAg/Leetcode/tree/master/1115-valid-boomerang) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0650-2-keys-keyboard](https://github.com/IamVanshAg/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/IamVanshAg/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/IamVanshAg/Leetcode/tree/master/1086-divisor-game) |
 ## Recursion
