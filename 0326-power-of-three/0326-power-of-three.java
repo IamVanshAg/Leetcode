@@ -3,7 +3,9 @@ class Solution {
         if (n <= 0) {
             return false;
         }
-        double logResult = Math.log(n) / Math.log(3);
-        return Math.abs(logResult - Math.round(logResult)) < 1e-10;
+        while (n % 3 == 0) {
+            n /= 3;
+        }
+        return n == 1;
     }
 }
