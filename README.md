@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IamVanshAg/Leetcode/tree/master/0283-move-zeroes) |
 | [0944-smallest-range-i](https://github.com/IamVanshAg/Leetcode/tree/master/0944-smallest-range-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0650-2-keys-keyboard](https://github.com/IamVanshAg/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/IamVanshAg/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/IamVanshAg/Leetcode/tree/master/1086-divisor-game) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1677-matrix-diagonal-sum](https://github.com/IamVanshAg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Counting Sort
 |  |
@@ -214,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-beautiful-array](https://github.com/IamVanshAg/Leetcode/tree/master/0968-beautiful-array) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
