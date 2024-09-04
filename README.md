@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/IamVanshAg/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/IamVanshAg/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/IamVanshAg/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/IamVanshAg/Leetcode/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamVanshAg/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/IamVanshAg/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/IamVanshAg/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/IamVanshAg/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/IamVanshAg/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/IamVanshAg/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2571-find-the-pivot-integer](https://github.com/IamVanshAg/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/IamVanshAg/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/IamVanshAg/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/IamVanshAg/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Divide and Conquer
