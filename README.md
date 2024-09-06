@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IamVanshAg/Leetcode/tree/master/0283-move-zeroes) |
 | [0944-smallest-range-i](https://github.com/IamVanshAg/Leetcode/tree/master/0944-smallest-range-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/IamVanshAg/Leetcode/tree/master/0389-find-the-difference) |
 | [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/IamVanshAg/Leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/IamVanshAg/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
 ## Greedy
 |  |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
 | [0968-beautiful-array](https://github.com/IamVanshAg/Leetcode/tree/master/0968-beautiful-array) |
 ## Stack
 |  |
