@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/IamVanshAg/Leetcode/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/IamVanshAg/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/IamVanshAg/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/IamVanshAg/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/IamVanshAg/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/IamVanshAg/Leetcode/tree/master/2083-three-divisors) |
