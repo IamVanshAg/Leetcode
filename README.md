@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/IamVanshAg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IamVanshAg/Leetcode/tree/master/0283-move-zeroes) |
 | [0944-smallest-range-i](https://github.com/IamVanshAg/Leetcode/tree/master/0944-smallest-range-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/IamVanshAg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/IamVanshAg/Leetcode/tree/master/0389-find-the-difference) |
 | [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/IamVanshAg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/IamVanshAg/Leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/IamVanshAg/Leetcode/tree/master/0782-jewels-and-stones) |
