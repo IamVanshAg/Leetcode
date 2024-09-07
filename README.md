@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/IamVanshAg/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/IamVanshAg/Leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/IamVanshAg/Leetcode/tree/master/0089-gray-code) |
+| [0223-rectangle-area](https://github.com/IamVanshAg/Leetcode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/IamVanshAg/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/IamVanshAg/Leetcode/tree/master/0292-nim-game) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/IamVanshAg/Leetcode/tree/master/0223-rectangle-area) |
 | [1115-valid-boomerang](https://github.com/IamVanshAg/Leetcode/tree/master/1115-valid-boomerang) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/IamVanshAg/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 ## Database
