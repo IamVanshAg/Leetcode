@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IamVanshAg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IamVanshAg/Leetcode/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/IamVanshAg/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/IamVanshAg/Leetcode/tree/master/0944-smallest-range-i) |
 | [0968-beautiful-array](https://github.com/IamVanshAg/Leetcode/tree/master/0968-beautiful-array) |
 | [1115-valid-boomerang](https://github.com/IamVanshAg/Leetcode/tree/master/1115-valid-boomerang) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IamVanshAg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/IamVanshAg/Leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/IamVanshAg/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/IamVanshAg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/IamVanshAg/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/IamVanshAg/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/IamVanshAg/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/IamVanshAg/Leetcode/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/IamVanshAg/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/IamVanshAg/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0944-smallest-range-i](https://github.com/IamVanshAg/Leetcode/tree/master/0944-smallest-range-i) |
 | [0968-beautiful-array](https://github.com/IamVanshAg/Leetcode/tree/master/0968-beautiful-array) |
