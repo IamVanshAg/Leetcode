@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/IamVanshAg/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/IamVanshAg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/IamVanshAg/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/IamVanshAg/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/IamVanshAg/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/IamVanshAg/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/IamVanshAg/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/IamVanshAg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/IamVanshAg/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0944-smallest-range-i](https://github.com/IamVanshAg/Leetcode/tree/master/0944-smallest-range-i) |
