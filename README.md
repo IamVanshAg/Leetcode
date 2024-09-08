@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/IamVanshAg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IamVanshAg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/IamVanshAg/Leetcode/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/IamVanshAg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0650-2-keys-keyboard](https://github.com/IamVanshAg/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/IamVanshAg/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/IamVanshAg/Leetcode/tree/master/1086-divisor-game) |
