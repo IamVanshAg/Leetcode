@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/IamVanshAg/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/IamVanshAg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamVanshAg/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/IamVanshAg/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/IamVanshAg/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
+| [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/IamVanshAg/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/IamVanshAg/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3371-harshad-number](https://github.com/IamVanshAg/Leetcode/tree/master/3371-harshad-number) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/IamVanshAg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/IamVanshAg/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/IamVanshAg/Leetcode/tree/master/2502-sort-the-people) |
+| [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamVanshAg/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Combinatorics
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/IamVanshAg/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/IamVanshAg/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/IamVanshAg/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3373-maximum-prime-difference](https://github.com/IamVanshAg/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Geometry
 |  |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
+| [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 ## Greedy
 |  |
 | ------- |
