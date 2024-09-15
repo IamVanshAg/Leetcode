@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/IamVanshAg/Leetcode/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/IamVanshAg/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2722-prime-in-diagonal](https://github.com/IamVanshAg/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/IamVanshAg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2608-count-the-digits-that-divide-a-number](https://github.com/IamVanshAg/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/IamVanshAg/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [2722-prime-in-diagonal](https://github.com/IamVanshAg/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/IamVanshAg/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/IamVanshAg/Leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/IamVanshAg/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/IamVanshAg/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/IamVanshAg/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2722-prime-in-diagonal](https://github.com/IamVanshAg/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3373-maximum-prime-difference](https://github.com/IamVanshAg/Leetcode/tree/master/3373-maximum-prime-difference) |
 ## Geometry
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1677-matrix-diagonal-sum](https://github.com/IamVanshAg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2722-prime-in-diagonal](https://github.com/IamVanshAg/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Counting Sort
 |  |
 | ------- |
