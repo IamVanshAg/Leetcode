@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/IamVanshAg/Leetcode/tree/master/0027-remove-element) |
 | [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/IamVanshAg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/IamVanshAg/Leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/IamVanshAg/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/IamVanshAg/Leetcode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/IamVanshAg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
