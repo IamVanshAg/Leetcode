@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IamVanshAg/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/IamVanshAg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/IamVanshAg/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1580-shuffle-the-array](https://github.com/IamVanshAg/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/IamVanshAg/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1677-matrix-diagonal-sum](https://github.com/IamVanshAg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IamVanshAg/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
