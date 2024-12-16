@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamVanshAg/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/IamVanshAg/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3373-maximum-prime-difference](https://github.com/IamVanshAg/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/IamVanshAg/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/IamVanshAg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/IamVanshAg/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3199-distribute-candies-among-children-i](https://github.com/IamVanshAg/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3367-find-the-sum-of-encrypted-integers](https://github.com/IamVanshAg/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3371-harshad-number](https://github.com/IamVanshAg/Leetcode/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/IamVanshAg/Leetcode/tree/master/3373-maximum-prime-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/IamVanshAg/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
