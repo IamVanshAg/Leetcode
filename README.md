@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/IamVanshAg/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/IamVanshAg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/IamVanshAg/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/IamVanshAg/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IamVanshAg/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/IamVanshAg/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/IamVanshAg/Leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -282,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/IamVanshAg/Leetcode/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/IamVanshAg/Leetcode/tree/master/1137-height-checker) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/IamVanshAg/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IamVanshAg/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/IamVanshAg/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/IamVanshAg/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/IamVanshAg/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/IamVanshAg/Leetcode/tree/master/3055-maximum-odd-binary-number) |
