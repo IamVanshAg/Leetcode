@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IamVanshAg/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0389-find-the-difference](https://github.com/IamVanshAg/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/IamVanshAg/Leetcode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/IamVanshAg/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/IamVanshAg/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/IamVanshAg/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IamVanshAg/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
