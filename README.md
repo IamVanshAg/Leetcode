@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/IamVanshAg/Leetcode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/IamVanshAg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/IamVanshAg/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2481-strictly-palindromic-number](https://github.com/IamVanshAg/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/IamVanshAg/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/IamVanshAg/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/IamVanshAg/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2481-strictly-palindromic-number](https://github.com/IamVanshAg/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/IamVanshAg/Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/IamVanshAg/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/IamVanshAg/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/IamVanshAg/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/IamVanshAg/Leetcode/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/IamVanshAg/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
