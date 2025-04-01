@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/IamVanshAg/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/IamVanshAg/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/IamVanshAg/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2128-reverse-prefix-of-word](https://github.com/IamVanshAg/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/IamVanshAg/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/IamVanshAg/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/IamVanshAg/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/IamVanshAg/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2128-reverse-prefix-of-word](https://github.com/IamVanshAg/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/IamVanshAg/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/IamVanshAg/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/IamVanshAg/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamVanshAg/Leetcode/tree/master/0085-maximal-rectangle) |
+| [2128-reverse-prefix-of-word](https://github.com/IamVanshAg/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
