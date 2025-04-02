@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/IamVanshAg/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/IamVanshAg/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/IamVanshAg/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/IamVanshAg/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamVanshAg/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/IamVanshAg/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/IamVanshAg/Leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
